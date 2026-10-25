@@ -1,7 +1,7 @@
 # Personal Expense Tracker — FFM CIE 2
 
 ## Project
-Personal Expense Tracker Using Cloud Computing (selected technology). This is a working local prototype built with Python, Streamlit, Pandas and Plotly.
+Personal Expense Tracker Using Cloud Computing. This application is developed using Python, Streamlit, Pandas and Plotly and deployed on Streamlit Community Cloud. It allows users to record income and expenses, manage budgets, view financial analytics and track transaction history through a web browser.
 
 ## Run in VS Code (Mac)
 1. Download and extract the ZIP.
