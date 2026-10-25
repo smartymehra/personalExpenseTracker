@@ -36,7 +36,17 @@ The application is developed using Python, Streamlit, Pandas and Plotly. Users c
 
 **Storage Limitation:** The application currently uses CSV file storage. The deployed application's local file storage may not provide permanent data persistence. Cloud database or cloud storage integration can be added in the future.
 ## Testing
-Use the test cases in the report. Record actual observed results during your run; the report's expected results are not proof of execution.
+The application was tested by running it locally and through Streamlit Community Cloud.
+
+The following features were tested successfully:
+- Dashboard and financial summary
+- Adding income and expense transactions
+- Budget feature
+- Analytics charts
+- Transaction history
+- Transaction search and CSV download
+
+The application was also checked after refreshing the browser.
 
 ## Known limitations
 - No login or multi-user account system.
