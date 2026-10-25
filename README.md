@@ -28,8 +28,13 @@ Personal Expense Tracker Using Cloud Computing (selected technology). This is a 
 The included CSV is a small synthetic sample created for demonstration. It is not real banking data and has no external dataset citation. If the instructor requires an external dataset, replace or supplement it with a reliable public dataset and cite the source in the report.
 
 ## Cloud technology requirement
-The current application runs locally and saves transactions to `data/transactions.csv`. This is NOT yet cloud computing implementation. To meet the selected Cloud Computing requirement, deploy the Streamlit app to a cloud host (for example Streamlit Community Cloud) or integrate cloud storage/database, then document the actual service and deployment evidence. Do not claim deployment until completed.
+The Personal Expense Tracker is deployed using Streamlit Community Cloud.
 
+**Live Application:** https://personalexpensetracker-efelgfipckbjomqwtef47t.streamlit.app
+
+The application is developed using Python, Streamlit, Pandas and Plotly. Users can access the application through a web browser without installing the software locally.
+
+**Storage Limitation:** The application currently uses CSV file storage. The deployed application's local file storage may not provide permanent data persistence. Cloud database or cloud storage integration can be added in the future.
 ## Testing
 Use the test cases in the report. Record actual observed results during your run; the report's expected results are not proof of execution.
 
