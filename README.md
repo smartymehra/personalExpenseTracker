@@ -48,8 +48,11 @@ The following features were tested successfully:
 
 The application was also checked after refreshing the browser.
 
-## Known limitations
-- No login or multi-user account system.
-- Local CSV persistence only.
-- Budget is entered for the current session and is not persisted.
-- Financial advice is not provided; the app is a tracking/analysis prototype.
+
+## Known Limitations
+
+- The application does not include login or multi-user account functionality.
+- Transactions are stored in a CSV file.
+- The deployed application's local file storage may not provide permanent data persistence.
+- The budget value is entered for the current session and is not permanently saved.
+- The application provides expense tracking and analysis, not professional financial advice.
